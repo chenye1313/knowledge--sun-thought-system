@@ -1,0 +1,44 @@
+[
+  {
+    "target": "Routing.md",
+    "operation_id": "readRouting",
+    "use_existing_file": false,
+    "source": "00_知识库路由.md",
+    "copied": true
+  },
+  {
+    "target": "ThoughtSystem.md",
+    "operation_id": "readThoughtSystem",
+    "use_existing_file": false,
+    "source": "01_体系总纲与定位边界.md",
+    "copied": true
+  },
+  {
+    "target": "ThreeBrains.md",
+    "operation_id": "readThreeBrains",
+    "use_existing_file": false,
+    "source": "02_三脑内隐记忆底层程序模型.md",
+    "copied": true
+  },
+  {
+    "target": "PanoramaMap.md",
+    "operation_id": "readPanoramaMap",
+    "use_existing_file": false,
+    "source": "03_全景地图与心智升级路径.md",
+    "copied": true
+  },
+  {
+    "target": "YouthLearning.md",
+    "operation_id": "readYouthLearning",
+    "use_existing_file": false,
+    "source": "04_青少年学习与亲子场景解释.md",
+    "copied": true
+  },
+  {
+    "target": "TermsFAQ.md",
+    "operation_id": "readTermsFAQ",
+    "use_existing_file": false,
+    "source": "05_术语口径FAQ与禁用表达.md",
+    "copied": true
+  }
+]
