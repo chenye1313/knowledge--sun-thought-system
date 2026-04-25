@@ -40,5 +40,75 @@
     "use_existing_file": false,
     "source": "05_术语口径FAQ与禁用表达.md",
     "copied": true
+  },
+  {
+    "target": "OntologyKernel.md",
+    "operation_id": "readOntologyKernel",
+    "use_existing_file": false,
+    "source": "06_思想本体分析与判断内核.md",
+    "copied": true
+  },
+  {
+    "target": "ExpressionDNA.md",
+    "operation_id": "readExpressionDNA",
+    "use_existing_file": false,
+    "source": "07_表达DNA与场景化语言指纹.md",
+    "copied": true
+  },
+  {
+    "target": "FounderStory.md",
+    "operation_id": "readFounderStory",
+    "use_existing_file": false,
+    "source": "08_人物画像与创业故事.md",
+    "copied": true
+  },
+  {
+    "target": "TheoryPrinciples.md",
+    "operation_id": "readTheoryPrinciples",
+    "use_existing_file": false,
+    "source": "09_理论体系与核心原理.md",
+    "copied": true
+  },
+  {
+    "target": "MethodsOperations.md",
+    "operation_id": "readMethodsOperations",
+    "use_existing_file": false,
+    "source": "10_技术方法与操作体系.md",
+    "copied": true
+  },
+  {
+    "target": "ProductService.md",
+    "operation_id": "readProductService",
+    "use_existing_file": false,
+    "source": "11_产品与服务设计.md",
+    "copied": true
+  },
+  {
+    "target": "CasesEvidence.md",
+    "operation_id": "readCasesEvidence",
+    "use_existing_file": false,
+    "source": "12_成果案例与效果验证.md",
+    "copied": true
+  },
+  {
+    "target": "BusinessPositioning.md",
+    "operation_id": "readBusinessPositioning",
+    "use_existing_file": false,
+    "source": "13_商业运营与行业定位.md",
+    "copied": true
+  },
+  {
+    "target": "MECEMap.md",
+    "operation_id": "readMECEMap",
+    "use_existing_file": false,
+    "source": "14_MECE框架与完整大纲.md",
+    "copied": true
+  },
+  {
+    "target": "FullSourceIntegration.md",
+    "operation_id": "readFullSourceIntegration",
+    "use_existing_file": false,
+    "source": "15_智能体知识库完整版原始整合.md",
+    "copied": true
   }
 ]
